@@ -1,3 +1,4 @@
+import Header from "./layout/Header"
 
 
 function App() {
@@ -5,7 +6,7 @@ function App() {
   return (
     <div className="max-h-screen flex flex-col">
         <div>
-           1
+            <Header/>
         </div>
         <div>
            2
